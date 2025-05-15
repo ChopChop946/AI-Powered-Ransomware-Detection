@@ -20,5 +20,3 @@ Our dual-branch CNN–BiLSTM model achieved:
 
 We use the [RanSMAP dataset](https://github.com/manabu-hirano/RanSMAP), which contains fine-grained storage and memory access patterns (LBA, GPA, Entropy, Read/Write/Execution counts).
 
-## 🔧 Setup
-
